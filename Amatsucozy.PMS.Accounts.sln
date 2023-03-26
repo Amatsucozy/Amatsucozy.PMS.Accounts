@@ -8,12 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amatsucozy.PMS.Accounts.Cor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{7967A958-38ED-4F95-B381-1037605C18B5}"
 	ProjectSection(SolutionItems) = preProject
-		..\nuget.config = ..\nuget.config
+		nuget.config = nuget.config
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workflows", "Workflows", "{0C1FC74F-910C-4F76-8E69-74F003729023}"
 	ProjectSection(SolutionItems) = preProject
-		..\.github\workflows\Accounts.Analyze.yml = ..\.github\workflows\Accounts.Analyze.yml
+		.github\workflows\Accounts.Analyze.yml = .github\workflows\Accounts.Analyze.yml
 	EndProjectSection
 EndProject
 Global
